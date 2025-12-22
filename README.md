@@ -21,3 +21,29 @@ The assignments are categorized into the following modules:
 - **Binary Search & Bubble Sort:** Efficient data searching and sorting techniques.
 - **Median of Two Sorted Arrays:** Implementation of complex algorithmic logic.
 - **File Handling:** Logic to compare contents of two text files.
+# RBU Semester 1 - C Programming Lab
+
+This repository contains my progress for the 1st-semester C Programming Lab at Ramdeobaba University (RBU).
+
+## 👤 Student Information
+* **Name:** Soniya Eknath Girhe
+* **Branch:** B.Tech Computer Science
+* **Batch:** 2025 - 2029
+
+## 📚 Progress Tracker
+
+### ✅ Module 01: Data Types and Operators
+* Basic Input/Output
+* Arithmetic Operators
+* Relational and Logical Operators
+
+### ✅ Module 02: Control Statements
+* If-Else conditions
+* Switch-Case programs
+
+### ✅ Module 03: Loops and Patterns
+* For, While, and Do-While loops
+* Pattern printing (Pyramids, Triangles)
+
+---
+*Status: Currently working on Module 04 (Functions & Recursion)*
