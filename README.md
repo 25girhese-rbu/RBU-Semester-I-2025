@@ -45,5 +45,14 @@ This repository contains my progress for the 1st-semester C Programming Lab at R
 * For, While, and Do-While loops
 * Pattern printing (Pyramids, Triangles)
 
----
-*Status: Currently working on Module 04 (Functions & Recursion)*
+### ✅ Module 04: Functions and Recursion
+* Series summation using functions
+* Fibonacci series using recursion
+
+### ✅ Module 05: Arrays and Sorting
+* Linear Search and Binary Search
+* Bubble Sort and Insertion Sort
+* Matrix Multiplication (2x2)
+* Median of Two Sorted Arrays (LeetCode Hard logic)
+
+Status: Currently working on Module 06 (Pointers and Structures) and HackerRank C Challenges 🚀
