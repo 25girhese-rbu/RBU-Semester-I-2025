@@ -1,3 +1,9 @@
+/*
+ * Program:Fibonacci Series upto nterms using Recursion.
+ * Author: Soniya Girhe
+ * College: Ramdeobaba University (RBU)
+ */
+
 #include <stdio.h>
 
 // Recursive function to find nth Fibonacci number
