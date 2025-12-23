@@ -1,3 +1,9 @@
+/*
+ * Program:Sum of 1/1!+2/2!+3/3!....N/N! Series using User Define Function.
+ * Author: Soniya Girhe
+ * College: Ramdeobaba University (RBU)
+ */
+
 #include <stdio.h>
 
 // User-defined function to calculate factorial
