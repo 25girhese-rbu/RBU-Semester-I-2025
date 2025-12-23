@@ -1,3 +1,9 @@
+/*
+ * Program:Sorting Array Using Insertion Sort.
+ * Author: Soniya Girhe
+ * College: Ramdeobaba University (RBU)
+ */
+
 #include <stdio.h>
 
 int main() {
