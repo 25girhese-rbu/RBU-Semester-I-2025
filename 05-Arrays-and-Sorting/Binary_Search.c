@@ -1,3 +1,9 @@
+/*
+ * Program:Binary Search in C.
+ * Author: Soniya Girhe
+ * College: Ramdeobaba University (RBU)
+ */
+
 #include <stdio.h>
 
 int main() {
