@@ -1,3 +1,9 @@
+/*
+ * Program:Merge two sorted lists and find the middle value.
+ * Author: Soniya Girhe
+ * College: Ramdeobaba University (RBU)
+ */
+
 #include <stdio.h>
 
 int main() {
