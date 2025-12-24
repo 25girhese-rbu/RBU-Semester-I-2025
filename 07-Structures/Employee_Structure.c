@@ -1,4 +1,10 @@
-#include <stdio.h>
+/*
+ * Program: Employee Structure and Salary Count.
+ * Author: Soniya Girhe
+ * College: Ramdeobaba University (RBU)
+ */
+
+ #include <stdio.h>
 
 struct Employee {
     char email[50];
