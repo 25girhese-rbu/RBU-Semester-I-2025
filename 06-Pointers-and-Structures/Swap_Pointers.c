@@ -1,4 +1,10 @@
-#include <stdio.h>
+/*
+ * Program: Swap values using pointers.
+ * Author: Soniya Girhe
+ * College: Ramdeobaba University (RBU)
+ */
+
+ #include <stdio.h>
 
 // Function to swap values using pointers
 void swap(int *a, int *b) {
