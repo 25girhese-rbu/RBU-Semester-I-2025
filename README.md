@@ -55,4 +55,16 @@ This repository contains my progress for the 1st-semester C Programming Lab at R
 * Matrix Multiplication (2x2)
 * Median of Two Sorted Arrays (LeetCode Hard logic)
 
-Status: Currently working on Module 06 (Pointers and Structures) and HackerRank C Challenges 🚀
+### ✅ Module 06: Pointers
+* Array summation using Pointers
+* String comparison (Manual implementation) using Pointers
+  
+### ✅ Module 07: Structures
+* Employee Record System (Handling multiple data types)
+* Salary filtering logic (> 50,000)
+
+### ✅ Module 08: File Handling
+* File I/O operations  
+* Logic to compare contents of two distinct text files
+
+Status: 🏆 Lab Curriculum 100% Completed | Currently practicing advanced Problem Solving on HackerRank 🚀
